@@ -1,0 +1,10 @@
+{
+  "description": "Manage gym members, memberships, payments, leads, attendance, trainers, and finances in one place, with live reports that help gym owners run operations efficiently.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
